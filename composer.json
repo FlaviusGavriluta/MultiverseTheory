@@ -1,0 +1,16 @@
+{
+    "name": "codecool-curriculum/multiverse-theory",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Physics\\": "src/"
+        }
+    },
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
